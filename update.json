@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.9.4",
-  "notes": "Games are found however your folders are named (N64 Roms, Nintendo 64, SEGA_Genesis...), also in Download and Documents. If nothing is found, it shows where it looked.",
+  "versionCode": 17,
+  "versionName": "2.9.5",
+  "notes": "Games removed. Everything else is unchanged.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
