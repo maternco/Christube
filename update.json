@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.8",
-  "notes": "Fixes tapping (or pressing OK on) a title and getting a different one from another row.",
+  "versionCode": 12,
+  "versionName": "2.9",
+  "notes": "New: Games! Play your own Genesis, SNES, NES, N64, PlayStation, Game Boy and arcade games with a Bluetooth controller (uses the free RetroArch app). Find it in the top menu.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
