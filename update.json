@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "2.6",
-  "notes": "Works on phones too, touch controls in the player, and updates arrive inside the app.",
+  "versionCode": 10,
+  "versionName": "2.7",
+  "notes": "Fixes taps opening the wrong thing on phones: rows no longer jump or shift while you're touching or scrolling.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
