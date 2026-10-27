@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.7",
-  "notes": "Fixes taps opening the wrong thing on phones: rows no longer jump or shift while you're touching or scrolling.",
+  "versionCode": 11,
+  "versionName": "2.8",
+  "notes": "Fixes tapping (or pressing OK on) a title and getting a different one from another row.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
