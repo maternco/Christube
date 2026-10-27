@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.9.1",
-  "notes": "New: Games! Play your own Genesis, SNES, NES, N64, PlayStation, Game Boy and arcade games with a Bluetooth controller (uses the free RetroArch app). Find it in the top menu.",
+  "versionCode": 14,
+  "versionName": "2.9.2",
+  "notes": "Games fix: if a game won't start, ChrisTube now tells you why (Play Store RetroArch can't read USB sticks, or the emulator isn't downloaded yet) with a button to open RetroArch. Search now finds your games too.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
