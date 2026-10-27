@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.9.3",
-  "notes": "Fix: the RetroArch from retroarch.com (32-bit or 64-bit) was wrongly flagged as the Play Store version. Games now open in it.",
+  "versionCode": 16,
+  "versionName": "2.9.4",
+  "notes": "Games are found however your folders are named (N64 Roms, Nintendo 64, SEGA_Genesis...), also in Download and Documents. If nothing is found, it shows where it looked.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
