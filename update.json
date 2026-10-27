@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.9.2",
-  "notes": "Games fix: if a game won't start, ChrisTube now tells you why (Play Store RetroArch can't read USB sticks, or the emulator isn't downloaded yet) with a button to open RetroArch. Search now finds your games too.",
+  "versionCode": 15,
+  "versionName": "2.9.3",
+  "notes": "Fix: the RetroArch from retroarch.com (32-bit or 64-bit) was wrongly flagged as the Play Store version. Games now open in it.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
