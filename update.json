@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.9.5",
-  "notes": "Games removed. Everything else is unchanged.",
+  "versionCode": 18,
+  "versionName": "2.9.6",
+  "notes": "Smoother live TV and sports: plays about 30 seconds behind live with a bigger cushion, so provider hiccups don't cause buffering.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
