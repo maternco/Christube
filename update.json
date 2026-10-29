@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.9.6",
-  "notes": "Smoother live TV and sports: plays about 30 seconds behind live with a bigger cushion, so provider hiccups don't cause buffering.",
+  "versionCode": 19,
+  "versionName": "2.9.7",
+  "notes": "Fix: on a new device with no account yet, the remote couldn't reach Account settings. It now opens the account screen automatically.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
