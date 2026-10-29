@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9.8",
-  "notes": "Fix for \"decoding failed\": ChrisTube now switches to its own audio decoder or a fresh video decoder instead of reconnecting over and over, and if a title truly can't play on the device, it says which format is the problem.",
+  "versionCode": 21,
+  "versionName": "2.9.9",
+  "notes": "Less buffering in movies and shows: reads up to 5 minutes ahead and rides out network blips instead of stopping.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
