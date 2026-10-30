@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.2",
-  "notes": "Favorite teams: follow teams in Settings (or hold OK on a game) and their games get a \"Your Teams\" row on Home. Kids profile: Settings → Switch to Kids profile shows only kids & family content with its own Continue Watching; leaving it needs your PIN.",
+  "versionCode": 25,
+  "versionName": "3.3",
+  "notes": "Start Over: in the guide, restart a show from the beginning on channels your provider records (marked ↺). Google TV's Continue Watching row now includes ChrisTube. Show pages suggest similar shows by genre and movies show their release date. Smoother focus animation and loading shimmer.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
