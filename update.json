@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.0",
-  "notes": "New TV guide for Live TV: channels down the side, shows across the top, what's on now highlighted. Smoother live TV: slows down slightly instead of freezing when the stream falls behind, and the channel banner shows stream info (resolution, frame rate, buffer, dropped frames).",
+  "versionCode": 23,
+  "versionName": "3.1",
+  "notes": "Movies listed several times (4K, HD, other languages) now show once, with a Versions button on the movie page. TV guide: press OK on a later show for \"Remind me\" and ChrisTube pops up when it starts.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
