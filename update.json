@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.4",
-  "notes": "Hold OK while watching for the new options menu: try another feed of a channel (it also switches automatically if a feed keeps buffering), sleep timer, and dim screen down to black with sound only. Voice search button in Search. Sync between devices (Settings).",
+  "versionCode": 27,
+  "versionName": "3.5",
+  "notes": "Profiles! \"Who's watching?\" when ChrisTube opens. Each profile has its own Continue Watching, My List and channels; kids profiles show only kids content; any profile can have its own PIN. Manage them from the profile button in the top menu.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
