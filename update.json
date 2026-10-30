@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.9.9",
-  "notes": "Less buffering in movies and shows: reads up to 5 minutes ahead and rides out network blips instead of stopping.",
+  "versionCode": 22,
+  "versionName": "3.0",
+  "notes": "New TV guide for Live TV: channels down the side, shows across the top, what's on now highlighted. Smoother live TV: slows down slightly instead of freezing when the stream falls behind, and the channel banner shows stream info (resolution, frame rate, buffer, dropped frames).",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
