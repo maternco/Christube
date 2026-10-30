@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.3",
-  "notes": "Start Over: in the guide, restart a show from the beginning on channels your provider records (marked ↺). Google TV's Continue Watching row now includes ChrisTube. Show pages suggest similar shows by genre and movies show their release date. Smoother focus animation and loading shimmer.",
+  "versionCode": 26,
+  "versionName": "3.4",
+  "notes": "Hold OK while watching for the new options menu: try another feed of a channel (it also switches automatically if a feed keeps buffering), sleep timer, and dim screen down to black with sound only. Voice search button in Search. Sync between devices (Settings).",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
