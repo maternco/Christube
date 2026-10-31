@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.6",
-  "notes": "Stronger adult filter: titles marked 18+, +18, [18], 🔞, erotic and similar are now treated like movies above R, and movies with no rating and no score are hidden (Settings → Unrated movies to change it, PIN needed).",
+  "versionCode": 29,
+  "versionName": "3.6.1",
+  "notes": "Fix: in Search (and Home), the remote no longer jumps back to the search box while ChrisTube checks ratings in the background. The server address now fixes typos like a doubled http:// automatically.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
