@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.5",
-  "notes": "Profiles! \"Who's watching?\" when ChrisTube opens. Each profile has its own Continue Watching, My List and channels; kids profiles show only kids content; any profile can have its own PIN. Manage them from the profile button in the top menu.",
+  "versionCode": 28,
+  "versionName": "3.6",
+  "notes": "Stronger adult filter: titles marked 18+, +18, [18], 🔞, erotic and similar are now treated like movies above R, and movies with no rating and no score are hidden (Settings → Unrated movies to change it, PIN needed).",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
