@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "3.7.1",
-  "notes": "Live sports: ChrisTube now checks each game channel's program guide to see what's actually on, so finished games stop showing as live and games that are on get marked live.",
+  "versionCode": 32,
+  "versionName": "3.7.2",
+  "notes": "Live sports: your provider's NFL Package (\"NFL 11 - 4:25pm Chiefs at Broncos\") is now read as games, so the NFL tile shows what's live and coming up.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
