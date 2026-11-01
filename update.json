@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.6.1",
-  "notes": "Fix: in Search (and Home), the remote no longer jumps back to the search box while ChrisTube checks ratings in the background. The server address now fixes typos like a doubled http:// automatically.",
+  "versionCode": 30,
+  "versionName": "3.7",
+  "notes": "Add phones and tablets without typing: Settings → 📱 Add a phone or tablet shows a QR code. Scan it, install ChrisTube, tap \"Sign in from your TV\", and press Allow on the TV.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
