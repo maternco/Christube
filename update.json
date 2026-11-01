@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.7",
-  "notes": "Add phones and tablets without typing: Settings → 📱 Add a phone or tablet shows a QR code. Scan it, install ChrisTube, tap \"Sign in from your TV\", and press Allow on the TV.",
+  "versionCode": 31,
+  "versionName": "3.7.1",
+  "notes": "Live sports: ChrisTube now checks each game channel's program guide to see what's actually on, so finished games stop showing as live and games that are on get marked live.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
