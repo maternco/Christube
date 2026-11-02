@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "3.7.3",
-  "notes": "Fix: the screen no longer waits on background work (sports, ratings) right after starting, which could freeze ChrisTube and make it restart. If ChrisTube ever closes unexpectedly, it now tells you why on the next start.",
+  "versionCode": 34,
+  "versionName": "3.8",
+  "notes": "Play on TV from your phone or tablet. Last-channel button (◀ while watching live TV). Option to open ChrisTube when the TV turns on. Cleaner Settings with technical details folded away, and a slimmer top menu (🔍 Search; country moved to Settings).",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
