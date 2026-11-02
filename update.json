@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.7.2",
-  "notes": "Live sports: your provider's NFL Package (\"NFL 11 - 4:25pm Chiefs at Broncos\") is now read as games, so the NFL tile shows what's live and coming up.",
+  "versionCode": 33,
+  "versionName": "3.7.3",
+  "notes": "Fix: the screen no longer waits on background work (sports, ratings) right after starting, which could freeze ChrisTube and make it restart. If ChrisTube ever closes unexpectedly, it now tells you why on the next start.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
