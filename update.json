@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.9",
-  "notes": "New: very specific movie categories, like \"Movies with Vague, Unexplained Magic\", \"Body Swap Cinema\" and \"Christmas Movies That Are Barely About Christmas\". Two show on Home each day; all of them are on the Movies tab.",
+  "versionCode": 36,
+  "versionName": "3.9.1",
+  "notes": "Fix: picking a season on a show page no longer jumps back to Season 1.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
