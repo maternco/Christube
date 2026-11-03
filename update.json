@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.9.2",
-  "notes": "Fix: ChrisTube could get stuck on \"Opening your library\" after 3.9 on slower TV boxes. The new movie categories are now worked out in the background.",
+  "versionCode": 38,
+  "versionName": "3.9.3",
+  "notes": "Much faster \"Opening your library\" on TV boxes (the title and adult-content checks over your whole library are 8-15x quicker). Updates now make sure they downloaded the newest copy before installing.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
