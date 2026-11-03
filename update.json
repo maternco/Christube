@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "3.8",
-  "notes": "Play on TV from your phone or tablet. Last-channel button (◀ while watching live TV). Option to open ChrisTube when the TV turns on. Cleaner Settings with technical details folded away, and a slimmer top menu (🔍 Search; country moved to Settings).",
+  "versionCode": 35,
+  "versionName": "3.9",
+  "notes": "New: very specific movie categories, like \"Movies with Vague, Unexplained Magic\", \"Body Swap Cinema\" and \"Christmas Movies That Are Barely About Christmas\". Two show on Home each day; all of them are on the Movies tab.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
