@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "3.9.1",
-  "notes": "Fix: picking a season on a show page no longer jumps back to Season 1.",
+  "versionCode": 37,
+  "versionName": "3.9.2",
+  "notes": "Fix: ChrisTube could get stuck on \"Opening your library\" after 3.9 on slower TV boxes. The new movie categories are now worked out in the background.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
