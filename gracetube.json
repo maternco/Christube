@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.9.4",
-  "notes": "Welcome to GraceTube!",
+  "versionCode": 40,
+  "versionName": "3.9.5",
+  "notes": "Phone/tablet setup: Settings \u2192 \ud83d\udcf1 Add a phone or tablet shows a QR code to put GraceTube on a phone.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }

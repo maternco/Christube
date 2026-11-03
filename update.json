@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.9.4",
-  "notes": "Behind-the-scenes changes so the same updates can also go to GraceTube. Nothing changes for you.",
+  "versionCode": 40,
+  "versionName": "3.9.5",
+  "notes": "Phone/tablet setup page now shows the right app name.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
