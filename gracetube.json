@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "3.9.6",
-  "notes": "Opens your library much faster: after the first open it keeps a compact copy that loads several times quicker, reads files in parallel, and background refreshes no longer slow the screen down.",
+  "versionCode": 42,
+  "versionName": "3.9.7",
+  "notes": "Fix: the background library refresh could leave part of the app running slowly after it finished (movies taking longer to start).",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
