@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "3.9.5",
-  "notes": "Phone/tablet setup page now shows the right app name.",
+  "versionCode": 41,
+  "versionName": "3.9.6",
+  "notes": "Opens your library much faster: after the first open it keeps a compact copy that loads several times quicker, reads files in parallel, and background refreshes no longer slow the screen down.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }

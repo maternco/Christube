@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "3.9.5",
-  "notes": "Phone/tablet setup: Settings \u2192 \ud83d\udcf1 Add a phone or tablet shows a QR code to put GraceTube on a phone.",
+  "versionCode": 41,
+  "versionName": "3.9.6",
+  "notes": "Opens your library much faster: after the first open it keeps a compact copy that loads several times quicker, reads files in parallel, and background refreshes no longer slow the screen down.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
