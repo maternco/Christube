@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "3.9.7",
-  "notes": "Fix: the background library refresh could leave part of the app running slowly after it finished (movies taking longer to start).",
+  "versionCode": 43,
+  "versionName": "3.9.8",
+  "notes": "Smoother playback on smaller devices like the Chromecast: how much video is held in memory now fits the device, and the app frees memory it no longer needs after opening your library.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
