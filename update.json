@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "3.9.16",
-  "notes": "If a movie keeps buffering (3 times in 5 minutes), it switches once to a smaller version of the same movie at the same spot, when there is one. Also: the player says when your account is busy on another device instead of spinning.",
+  "versionCode": 52,
+  "versionName": "3.9.17",
+  "notes": "Sports: NFL games the provider lists early (like Thursday Night Football on Wednesday) no longer show as live, and games on team channels (like the Lakers channel) now show as live when their guide says a game is on.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
