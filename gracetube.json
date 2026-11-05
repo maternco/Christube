@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "3.9.17",
-  "notes": "Sports: NFL games the provider lists early (like Thursday Night Football on Wednesday) no longer show as live, and games on team channels (like the Lakers channel) now show as live when their guide says a game is on.",
+  "versionCode": 53,
+  "versionName": "3.9.18",
+  "notes": "Removed the YouTube buttons. Sports: NFL games listed early no longer show as live, and games on team channels show as live when their guide says a game is on.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
