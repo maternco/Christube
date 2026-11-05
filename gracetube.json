@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "3.9.11",
-  "notes": "New \u25b6 YouTube button in the top menu (and in Search, to look up what you typed). On TVs, Settings \u2192 \"TV home screen & other apps\" opens Google TV's home, Android settings or any other app.",
+  "versionCode": 47,
+  "versionName": "3.9.12",
+  "notes": "On devices that can't play 4K (like the Chromecast HD), 4K titles and categories are left out instead of failing or timing out. Also: \u25b6 YouTube button in the top menu and in Search.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
