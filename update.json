@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "3.9.19",
-  "notes": "Sports: NFL games listed early no longer show as live, and games on team channels (like the Lakers channel) show as live when their guide says a game is on.",
+  "versionCode": 55,
+  "versionName": "3.9.20",
+  "notes": "Movies and episodes with a damaged spot in the file now skip past it instead of getting stuck on \"Reconnecting\". If a file is broken from the start, the player says so plainly.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }

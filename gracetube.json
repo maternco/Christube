@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "3.9.19",
-  "notes": "New: a quick welcome tour (profiles, putting GraceTube on your phone, sleep timer and more). See it again any time from Settings. Also: removed the YouTube buttons.",
+  "versionCode": 55,
+  "versionName": "3.9.20",
+  "notes": "Movies and episodes with a damaged spot in the file now skip past it instead of getting stuck on \"Reconnecting\". If a file is broken from the start, the player says so plainly.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
