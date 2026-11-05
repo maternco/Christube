@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "3.9.12",
-  "notes": "On devices that can't play 4K (like the Chromecast HD), 4K titles and categories are left out instead of failing or timing out. Also: \u25b6 YouTube button in the top menu and in Search.",
+  "versionCode": 48,
+  "versionName": "3.9.13",
+  "notes": "\"Clear watch history\" now also clears the TV's own Continue watching row. On devices that can't play 4K (like the Chromecast HD), 4K titles are left out instead of failing.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
