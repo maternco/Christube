@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "3.9.14",
-  "notes": "Playback stats for movies, shows and live TV: hold OK \u2192 \"Show playback stats\" to see what's causing buffering (the stream or this device). Also: Clear watch history now clears the TV's Continue watching row too.",
+  "versionCode": 50,
+  "versionName": "3.9.15",
+  "notes": "When your account is already playing on another device, the player now says so (instead of spinning) and starts by itself once the other device stops. Also: hold OK \u2192 \"Show playback stats\" to see what's causing buffering.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
