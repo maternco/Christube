@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "3.9.13",
-  "notes": "\"Clear watch history\" now also clears the TV's own Continue watching row. On devices that can't play 4K (like the Chromecast HD), 4K titles are left out instead of failing.",
+  "versionCode": 49,
+  "versionName": "3.9.14",
+  "notes": "Playback stats for movies, shows and live TV: hold OK \u2192 \"Show playback stats\" to see what's causing buffering (the stream or this device). Also: Clear watch history now clears the TV's Continue watching row too.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
