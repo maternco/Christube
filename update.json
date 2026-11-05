@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "3.9.18",
+  "versionCode": 54,
+  "versionName": "3.9.19",
   "notes": "Sports: NFL games listed early no longer show as live, and games on team channels (like the Lakers channel) show as live when their guide says a game is on.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
