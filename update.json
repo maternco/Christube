@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "3.9.10",
-  "notes": "New in Settings on TVs: \"TV home screen & other apps\" opens Google TV's home, Android settings or any other app.",
+  "versionCode": 46,
+  "versionName": "3.9.11",
+  "notes": "New \u25b6 YouTube button in the top menu (and in Search, to look up what you typed). On TVs, Settings \u2192 \"TV home screen & other apps\" opens Google TV's home, Android settings or any other app.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
