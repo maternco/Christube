@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "3.9.15",
-  "notes": "When your account is already playing on another device, the player now says so (instead of spinning) and starts by itself once the other device stops. Also: hold OK \u2192 \"Show playback stats\" to see what's causing buffering.",
+  "versionCode": 51,
+  "versionName": "3.9.16",
+  "notes": "If a movie keeps buffering (3 times in 5 minutes), it switches once to a smaller version of the same movie at the same spot, when there is one. Also: the player says when your account is busy on another device instead of spinning.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
