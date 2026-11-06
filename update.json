@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "4.1",
-  "notes": "New: \ud83c\udfa7 Audiobooks from your Audiobookshelf (top menu). Your place syncs with the Audiobookshelf app; sleep timer, speed, chapters and dim screen included. Also: less stop-start buffering, and a backup server when a title keeps stalling.",
+  "versionCode": 61,
+  "versionName": "4.1.1",
+  "notes": "A shorter top menu: Live TV and Sports are one page now (TV Guide first, then each sport), and My List moved to the Search screen. Fixes the Audiobooks error on the shelves screen.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }

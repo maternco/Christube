@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "4.1",
-  "notes": "Less stop-start buffering: after repeated stalls the player refills longer before resuming, and switches to the provider's backup server if a title keeps buffering.",
+  "versionCode": 61,
+  "versionName": "4.1.1",
+  "notes": "A shorter top menu: Live TV and Sports are one page now (TV Guide first, then each sport), and My List moved to the Search screen.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
