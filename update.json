@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "4.1.1",
-  "notes": "A shorter top menu: Live TV and Sports are one page now (TV Guide first, then each sport), and My List moved to the Search screen. Fixes the Audiobooks error on the shelves screen.",
+  "versionCode": 62,
+  "versionName": "4.2",
+  "notes": "Audiobooks keep playing on your phone with the screen locked, with lock-screen, notification and headphone/Bluetooth controls. Pulling out headphones pauses. On TVs, leaving the book screen still stops it.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
