@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "4.0",
-  "notes": "GraceTube 4.0: live scores on Sports \u2022 see which device is using your stream and stop it from here \u2022 New Episodes row for shows you follow \u2022 a Trailer button on every movie and show \u2022 \ud83c\udfb2 Surprise me (on the Search screen) \u2022 Kids bedtime \u2022 picture-in-picture on phones \u2022 press Up twice (or hold Up) to jump to the top menu.",
+  "versionCode": 57,
+  "versionName": "4.0.1",
+  "notes": "Fixes freezes (and being kicked back to the TV's home screen) when moving around Home and Sports, caused by the new live scores.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
