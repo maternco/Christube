@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "4.0.1",
-  "notes": "Fixes freezes (and being kicked back to the TV's home screen) when moving around Home and Sports, caused by the new live scores.",
+  "versionCode": 58,
+  "versionName": "4.0.2",
+  "notes": "Less stop-start buffering: after repeated stalls the player refills longer before resuming, and if a movie or episode keeps buffering it switches to the provider's backup server at the same spot. Also fixes the freezes from 4.0.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
