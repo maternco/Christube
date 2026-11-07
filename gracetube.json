@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "4.2.1",
-  "notes": "Fixes the Search box on phones (it was squeezed too small to tap). YouTube, Surprise me and My List now sit on their own row under it.",
+  "versionCode": 64,
+  "versionName": "4.2.2",
+  "notes": "Sports: big games on network slots (like BYU at Utah on \"NCAAF 04: ABC\") now show up as live games with scores, and games no longer disappear from a sport's page when the provider's guide has only placeholder entries.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
