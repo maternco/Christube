@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "4.2.2",
-  "notes": "Sports: big games on network slots (like BYU at Utah on \"NCAAF 04: ABC\") now show up as live games with scores, and games no longer disappear from a sport's page when the provider's guide has only placeholder entries.",
+  "versionCode": 65,
+  "versionName": "4.2.3",
+  "notes": "Sports: search finds games by team (\"utes\", \"byu\") even when the channel is only named for its network, and college football network slots (\"NCAAF 04: ABC\") now show their game.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
