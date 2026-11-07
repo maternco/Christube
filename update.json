@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "4.2",
-  "notes": "Audiobooks keep playing on your phone with the screen locked, with lock-screen, notification and headphone/Bluetooth controls. Pulling out headphones pauses. On TVs, leaving the book screen still stops it.",
+  "versionCode": 63,
+  "versionName": "4.2.1",
+  "notes": "Fixes the Search box on phones (it was squeezed too small to tap). YouTube, Surprise me and My List now sit on their own row under it.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }

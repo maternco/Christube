@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "4.2",
-  "notes": "A shorter top menu: Live TV and Sports are one page now (TV Guide first, then each sport), and My List moved to the Search screen.",
+  "versionCode": 63,
+  "versionName": "4.2.1",
+  "notes": "Fixes the Search box on phones (it was squeezed too small to tap). YouTube, Surprise me and My List now sit on their own row under it.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
