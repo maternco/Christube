@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "4.8",
-  "notes": "📼 New Retro TV channel 41 Employee Training 💼: the Windows 95 Video Guide with Jennifer Aniston & Matthew Perry, Wendy's (1987), Old Country Buffet, Pizza Hut, Hardee's, Blockbuster, McDonald's and more. The Retro Guide is cleaner too: short clips share one labeled box instead of tiny empty ones, and long channel names wrap instead of getting cut off.",
+  "versionCode": 74,
+  "versionName": "4.8.1",
+  "notes": "📼 Retro TV: every channel was checked for broken audio, and 22 episodes whose sound cuts out (including some MythBusters) were removed. Channels refresh their lineups with each update.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
