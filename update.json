@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "4.6",
-  "notes": "📼 Retro TV: new channels 15 Commercial Break (80s and 90s ads) and 35 Sports Classics (Jordan Bulls, 90s Super Bowls, Final Fours, Tyson). Flipping channels now shows static and a glowing channel number like an old TV, number keys tune straight to a channel, and \"Coming up next\" bumpers appear between shows.",
+  "versionCode": 71,
+  "versionName": "4.7",
+  "notes": "📼 Six new Retro TV channels: 8 The Weather Channel (Local on the 8s), 22 Disney Channel Movies, 26 Unsolved & True Crime, 27 Shockumentaries (Copperfield, police chases, Alien Autopsy), 34 Discovery & TLC (MythBusters, How It's Made, Dirty Jobs) and 99 3 AM Infomercials.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
