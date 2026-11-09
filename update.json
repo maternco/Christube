@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "4.7.1",
-  "notes": "📼 Retro TV fix: channels load from ready-made lineups in one quick download, so the guide no longer says \"Not coming in right now\" when the Internet Archive is busy. A channel that does fail retries when you select it.",
+  "versionCode": 73,
+  "versionName": "4.8",
+  "notes": "📼 New Retro TV channel 41 Employee Training 💼: the Windows 95 Video Guide with Jennifer Aniston & Matthew Perry, Wendy's (1987), Old Country Buffet, Pizza Hut, Hardee's, Blockbuster, McDonald's and more. The Retro Guide is cleaner too: short clips share one labeled box instead of tiny empty ones, and long channel names wrap instead of getting cut off.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
