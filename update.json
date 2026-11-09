@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "4.5",
-  "notes": "⏩ Fast forward: on the remote, ◀ ▶ jump back/ahead 10 seconds (press again to add more). Hold to speed up to 30 s, 1 min, then 5 min jumps. On a phone, double-tap the left or right side.",
+  "versionCode": 70,
+  "versionName": "4.6",
+  "notes": "📼 Retro TV: new channels 15 Commercial Break (80s and 90s ads) and 35 Sports Classics (Jordan Bulls, 90s Super Bowls, Final Fours, Tyson). Flipping channels now shows static and a glowing channel number like an old TV, number keys tune straight to a channel, and \"Coming up next\" bumpers appear between shows.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
