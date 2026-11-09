@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "4.4",
-  "notes": "📼 Retro TV is one button under Live TV now, and it opens a 90s cable-style Retro Guide. 14 channels: Saturday Morning, Disney Afternoon, 80s Cartoons, TGIF, Cartoon Network, Must See TV, 🎄 Christmas Specials, Game Show Zone, Zoog Disney, Spooky, 90s Wrestling (WWF/WCW/ECW), 90s Nick, MTV and 90s Off-Air. Includes whole TGIF nights and Saturday mornings taped off TV, commercials and all.",
+  "versionCode": 69,
+  "versionName": "4.5",
+  "notes": "⏩ Fast forward: on the remote, ◀ ▶ jump back/ahead 10 seconds (press again to add more). Hold to speed up to 30 s, 1 min, then 5 min jumps. On a phone, double-tap the left or right side.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
