@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "4.5",
-  "notes": "⏩ Fast forward: on the remote, ◀ ▶ jump back/ahead 10 seconds (press again to add more). Hold to speed up to 30 s, 1 min, then 5 min jumps. On a phone, double-tap the left or right side.",
+  "versionCode": 75,
+  "versionName": "4.9",
+  "notes": "🖼 Missing posters: titles whose artwork is dead or blank now try a second picture (the movie's own poster or the show's backdrop), and if there's none, show a colored title card instead of an empty box.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/GraceTube.apk"
 }
