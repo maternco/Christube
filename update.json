@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "5.0",
-  "notes": "🚚 Your provider moved to a new address: if the old server stops answering, the app switches to the new one by itself. 📲 New: copy your sign-in from one device to another with no typing (Settings → Copy sign-in from another device, then Allow on the other one).",
+  "versionCode": 77,
+  "versionName": "5.1",
+  "notes": "When the TV provider is down, the error screen now has buttons for 📼 Retro TV and 🎧 Audiobooks (ChrisTube), which don't need the provider, and the app still checks for updates.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
