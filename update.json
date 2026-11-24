@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "5.1",
-  "notes": "When the TV provider is down, the error screen now has buttons for 📼 Retro TV and 🎧 Audiobooks (ChrisTube), which don't need the provider, and the app still checks for updates.",
+  "versionCode": 78,
+  "versionName": "5.2",
+  "notes": "🧹 Cleaner library: titles lose provider clutter (\"4K-NF - … (MX)\" → \"I'm Not Afraid\"), section names are readable (\"Netflix Movies 4K Dolby Vision\"), and in the United States view anything not in English is hidden: foreign sections, Arabic/Cyrillic/Greek titles, and titles from non-English countries. Switch Region to \"All countries\" in Settings to see everything.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
