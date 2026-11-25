@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "5.3",
-  "notes": "🎄 Through Jan 6: Christmas Channels (Hallmark, Great American Family, Always Christmas…) and Christmas Movies rows on Home, plus 📼 Retro TV channel 24 \"Cheesy Christmas\": nonstop made-for-TV Christmas movies with a guide.",
+  "versionCode": 80,
+  "versionName": "5.3.1",
+  "notes": "🎄 Through Jan 6: Christmas Channels (Hallmark, Great American Family, Always Christmas…) and Christmas Movies rows on Home, plus 📼 Retro TV channel 24 \"Cheesy Christmas\": nonstop made-for-TV Christmas movies with a guide. 📲 Copy sign-in now says why it failed: couldn't reach the other device (usually a VPN) vs. not allowed.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
