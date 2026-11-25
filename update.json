@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "5.2",
-  "notes": "🧹 Cleaner library: titles lose provider clutter (\"4K-NF - … (MX)\" → \"I'm Not Afraid\"), section names are readable (\"Netflix Movies 4K Dolby Vision\"), and in the United States view anything not in English is hidden: foreign sections, Arabic/Cyrillic/Greek titles, and titles from non-English countries. Switch Region to \"All countries\" in Settings to see everything.",
+  "versionCode": 79,
+  "versionName": "5.3",
+  "notes": "🎄 Through Jan 6: Christmas Channels (Hallmark, Great American Family, Always Christmas…) and Christmas Movies rows on Home, plus 📼 Retro TV channel 24 \"Cheesy Christmas\": nonstop made-for-TV Christmas movies with a guide.",
   "apkUrl": "https://raw.githubusercontent.com/maternco/christube/main/ChrisTube.apk"
 }
